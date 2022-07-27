@@ -1,3 +1,23 @@
+# Asos-clone
+
+ASOS plc is a British online fashion and cosmetic retailer. The company was founded in 2000 in London, primarily aimed at young adults.
+
+## Features:
+-Login Page | Sign-in Page<br />
+-Landing Page | Products Page<br />
+-Product Description Page<br />
+-Cart Page | Payment Page<br />
+
+## Tech Stacks:
+-Html<br />
+-CSS <br />
+-JS <br />
+-React <br />
+-Json Server <br />
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
